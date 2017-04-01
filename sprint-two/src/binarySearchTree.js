@@ -1,6 +1,4 @@
 var BinarySearchTree = function(value) {
-  BinarySearchTree.prototype.
-
 };
 
 
